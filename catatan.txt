@@ -1,0 +1,8 @@
+cara penggunaan 
+
+1. jalankan comment dibawah
+php artisan migrate
+php artisan db:seed --class=AdminSeeder
+php artisan db:seed --class=UserSeeder
+php artisan db:seed --class=JenisSuratSeeder
+php artisan db:seed --class=SuratSeeder
